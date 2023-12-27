@@ -1,4 +1,4 @@
-![Preview](me.png)
+![Preview](/assets/me.schema.png)
 
 # Terminal Customization with Oh-My-Posh on Windows
 
